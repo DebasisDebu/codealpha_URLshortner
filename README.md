@@ -1,1 +1,1 @@
-# codealpha_URLshortner
+BASICALLY IT MAKES A LONGER URL INTO A SHORT ONE.
